@@ -1,0 +1,8 @@
+{
+  "name": "NexusAgent - Local Agentic Orchestrator",
+  "description": "Autonomous local agent harness and workflow orchestrator powered by Gemini. Features task decomposition, multi-step chain-of-thought reasoning, tool execution, reflection loops, and artifact management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
